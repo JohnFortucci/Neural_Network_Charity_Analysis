@@ -36,7 +36,7 @@ The initial model was created with 2 hidden layers with the activation function 
 
 The target perfromance 75% was not met it was approximately 70% as can be see from the image below.
 
-
+![Summary retiring](/Resources/Initial_model_evaluation.png)
 
 
 
