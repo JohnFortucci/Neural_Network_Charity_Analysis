@@ -24,3 +24,21 @@ Havng reviewed the initial dataset , is can be determined 👎
   - STATUS
   - USE_CASE
 
+- The following data can be removed from the input data as they will have no direct effect on the model.
+  - NAME
+  - EIN
+
+### Compiling, Training and Evaluating the model.
+
+#### Initial Model
+
+The initial model was created with 2 hidden layers with the activation function "RELU" and and output layer with the activation function "Signoid" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
+
+The target perfromance 75% was not met it was approximately 70% as can be see from the image below.
+
+
+
+
+
+
+
