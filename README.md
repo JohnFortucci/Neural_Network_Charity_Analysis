@@ -38,7 +38,18 @@ The target perfromance 75% was not met it was approximately 70% as can be see fr
 
 ![Summary retiring](/Resources/Initial_model_evaluation.png)
 
+#### 1st test for improvement
 
+To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , and increased the number of neurons in the second layer by 10.
 
+The target performance of 75% was not met , infact the accurcy reduced from the first run down by about 4% TO 66as can be seen from the image below.
 
+![Summary retiring](/Resources/Initial_model_evaluation.png)
 
+#### 2nd test for improvement
+
+To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation functions "SIGMOID" and the second hidden layer with the activation function "RELU" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
+
+The target performance of 75% was not met , infact the accurcy reduced from the first run down by about 4% TO 66as can be seen from the image below.
+
+![Summary retiring](/Resources/Initial_model_evaluation.png)
