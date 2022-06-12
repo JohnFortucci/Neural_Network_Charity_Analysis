@@ -50,6 +50,9 @@ The export of this model can be found : https://github.com/JohnFortucci/Neural_N
 
 This [website ([https://stackoverflow.com](https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5))][model] is model.
 
+It is reference links [emphasis tutorials][myexample]
+
+[myexample]: /file/markdown-emphasis "markdown emphasis tutorials"
 
 #### 2nd test for improvement
 
