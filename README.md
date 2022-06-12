@@ -32,11 +32,11 @@ Havng reviewed the initial dataset , is can be determined 👎
 
 #### Initial Model
 
-The initial model was created with 2 hidden layers with the activation function "RELU" and and output layer with the activation function "Signoid" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
+The initial model was created with 1 hidden layers with the activation function "RELU" and and output layer with the activation function "Signoid" with the first hidden layer having 80 neurons.
 
-The target perfromance 75% was not met it was approximately 70% as can be see from the image below.
+The target perfromance 75% was not met it was approximately 73% as can be see from the image below.
 
-![Summary retiring](/Resources/Initial_model_evaluation.png)
+![Summary retiring](/Resources/Original_model.PNG)
 
 #### 1st test for improvement
 
