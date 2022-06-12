@@ -41,29 +41,18 @@ The target perfromance 75% was not met it was approximately 73% as can be see fr
 [Link to initial model execution].
 
 [Link to initial model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5 
+
 #### 1st test for improvement
 
-To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , and increased the number of neurons in the second layer by 10.
+To try an improve accuracy in the initial run , I added and additional hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , the second hidden layer has 40 neurons.
 
-The target performance of 75% was not met , infact the accurcy reduced from the first run down by about 4% TO 66as can be seen from the image below.
+The target performance of 75% was not met , it was approximately 73%.
 
-![Summary retiring](/Resources/Initial_model_evaluation.png)
+![Summary retiring](/Resources/first_optimization.PNG)
 
-The export of this model can be found : https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5
+[Link to 1st improvement model execution].
 
-This [website ([https://stackoverflow.com](https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5))][model] is model.
-
-It is reference links [emphasis tutorials][myexample]
-
-[myexample]: /file/markdown-emphasis "markdown emphasis tutorials"
-
-This [website] is awesome.
-
-You will never use anything else than this [website].
-
-Check out [https://stackoverflow.com][website] for more fun.
-
-[website]: https://stackoverflow.com
+[Link to 1st improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_1.h5 
 
 #### 2nd test for improvement
 
