@@ -38,9 +38,7 @@ The target perfromance 75% was not met it was approximately 73% as can be see fr
 
 ![Summary retiring](/Resources/Original_model.PNG)
 
-The model execution export can be found [here]. 
-
-[here] https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5
+The model execution export can be found https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5 [here]
 #### 1st test for improvement
 
 To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , and increased the number of neurons in the second layer by 10.
