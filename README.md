@@ -46,6 +46,11 @@ The target performance of 75% was not met , infact the accurcy reduced from the 
 
 ![Summary retiring](/Resources/Initial_model_evaluation.png)
 
+The export of this model can be found : https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5
+
+This [website ([https://stackoverflow.com](https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_original.h5))][model] is model.
+
+
 #### 2nd test for improvement
 
 To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation functions "SIGMOID" and the second hidden layer with the activation function "RELU" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
