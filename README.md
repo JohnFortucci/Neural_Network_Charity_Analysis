@@ -10,7 +10,7 @@ Based on this dataset we plan to use machine learning and neural netwroks , to c
 
 ### Data Preprocessing
 
-Havng reviewed the initial dataset , is can be determined 👎
+Havng reviewed the initial dataset , is can be determined :- 
 
 - The data provided shows a column for 'IS_SUCCESSFUL,' and will be the targeted data point for these predictions.
 - The following data points (features) will be used as input for the models :- 
