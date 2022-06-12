@@ -30,6 +30,8 @@ Havng reviewed the initial dataset , is can be determined 👎
 
 ### Compiling, Training and Evaluating the model.
 
+For all the model we ran 20 epochs for each model.
+
 #### Initial Model
 
 The initial model was created with 1 hidden layers with the activation function "RELU" and and output layer with the activation function "Signoid" with the first hidden layer having 80 neurons.
@@ -76,4 +78,17 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 
 [Link to 3nd improvement model execution].
 
-[Link to 3nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_3.h5 
+[Link to 3nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_3.h5
+
+## Summary
+
+Initial run : 73.27%
+1st Run     : 72.79%
+2nd Run     : 73.24%
+3rd Run     : 73.14%
+
+While the target of 75% was not met , we achieved approximately 73% across all models from this we could determine that while we did not achieve the 75% we where very close across all runs , this suggest that the model themseleves are good and therefore do not need changed.
+
+In order the 75% we could investigate :- 
+- The possibility of having additional datapoints.
+
