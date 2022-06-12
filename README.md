@@ -76,9 +76,9 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 
 ![Summary retiring](/Resources/third_optimization.PNG)
 
-[Link to 3nd improvement model execution].
+[Link to 3rd improvement model execution].
 
-[Link to 3nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_3.h5
+[Link to 3rd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_3.h5
 
 ## Summary
 
