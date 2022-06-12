@@ -46,7 +46,7 @@ The target perfromance 75% was not met it was approximately 73% as can be see fr
 
 To try an improve accuracy in the initial run , I added and additional hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , the second hidden layer has 40 neurons.
 
-The target performance of 75% was not met , it was approximately 73%.
+The target performance of 75% was not met , it was approximately 73%. No major change from the previous model.
 
 ![Summary retiring](/Resources/first_optimization.PNG)
 
@@ -56,8 +56,12 @@ The target performance of 75% was not met , it was approximately 73%.
 
 #### 2nd test for improvement
 
-To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation functions "SIGMOID" and the second hidden layer with the activation function "RELU" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
+To try an improve accuracy previous models , I decided to change a number of variable to see if we could generate a change either positive or negative , kept the 2 hidden layers and chnaged the number of neurons in the first layer to 12 and in the second layer to six , I also changed the activation function function in the second hidden layer to "SIGMOID".
 
-The target performance of 75% was not met , infact the accurcy reduced from the first run down by about 4% TO 66as can be seen from the image below.
+The target performance of 75% was not met , it was approximately 73%. No major change from the previous models.
 
-![Summary retiring](/Resources/Initial_model_evaluation.png)
+![Summary retiring](/Resources/second_optimization.PNG)
+
+[Link to 2nd improvement model execution].
+
+[Link to 2nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_2.h5 
