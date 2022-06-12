@@ -65,3 +65,15 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 [Link to 2nd improvement model execution].
 
 [Link to 2nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_2.h5 
+
+#### 3nd test for improvement
+
+For the third improvement test added a third hidden layer , and adjisted the neurons and reverted all activation models to "RELU". Increased the neurons in the first layer to 140, increased neurons in the second layer to 20 and reverted to the activation model of "RELU". For the new hodden layer I configured the neurons to 15 and an activation model of "RELU"
+
+The target performance of 75% was not met , it was approximately 73%. No major change from the previous models.
+
+![Summary retiring](/Resources/third_optimization.PNG)
+
+[Link to 3nd improvement model execution].
+
+[Link to 3nd improvement model execution]: https://github.com/JohnFortucci/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_opt_run_3.h5 
