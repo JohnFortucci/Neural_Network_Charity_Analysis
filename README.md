@@ -48,7 +48,7 @@ The target perfromance 75% was not met it was approximately 73% as can be see fr
 
 To try an improve accuracy in the initial run , I added and additional hidden layers with the activation function "RELU" and reduced the number of neurons in the first layer by 10 , the second hidden layer has 40 neurons.
 
-The target performance of 75% was not met , it was approximately 73%. No major change from the previous model.
+The target performance of 75% was not met , it was approximately 73% as can be seen from the image below. No major change from the previous model.
 
 ![Summary retiring](/Resources/first_optimization.PNG)
 
@@ -60,7 +60,7 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 
 To try an improve accuracy previous models , I decided to change a number of variable to see if we could generate a change either positive or negative , kept the 2 hidden layers and chnaged the number of neurons in the first layer to 12 and in the second layer to six , I also changed the activation function function in the second hidden layer to "SIGMOID".
 
-The target performance of 75% was not met , it was approximately 73%. No major change from the previous models.
+The target performance of 75% was not met , it was approximately 73% as can be seen from the image below. No major change from the previous models.
 
 ![Summary retiring](/Resources/second_optimization.PNG)
 
@@ -72,7 +72,7 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 
 For the third improvement test added a third hidden layer , and adjisted the neurons and reverted all activation models to "RELU". Increased the neurons in the first layer to 140, increased neurons in the second layer to 20 and reverted to the activation model of "RELU". For the new hodden layer I configured the neurons to 15 and an activation model of "RELU"
 
-The target performance of 75% was not met , it was approximately 73%. No major change from the previous models.
+The target performance of 75% was not met , it was approximately 73% as can be seen from the image below. No major change from the previous models.
 
 ![Summary retiring](/Resources/third_optimization.PNG)
 
@@ -82,10 +82,10 @@ The target performance of 75% was not met , it was approximately 73%. No major c
 
 ## Summary
 
-Initial run : 73.27%
-1st Run     : 72.79%
-2nd Run     : 73.24%
-3rd Run     : 73.14%
+- Initial run : 73.27%
+- 1st Run     : 72.79%
+- 2nd Run     : 73.24%
+- 3rd Run     : 73.14%
 
 While the target of 75% was not met , we achieved approximately 73% across all models from this we could determine that while we did not achieve the 75% we where very close across all runs , this suggest that the model themseleves are good and therefore do not need changed.
 
