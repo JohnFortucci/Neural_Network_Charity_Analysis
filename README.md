@@ -54,6 +54,14 @@ It is reference links [emphasis tutorials][myexample]
 
 [myexample]: /file/markdown-emphasis "markdown emphasis tutorials"
 
+This [website] is awesome.
+
+You will never use anything else than this [website].
+
+Check out [https://stackoverflow.com][website] for more fun.
+
+[website]: https://stackoverflow.com
+
 #### 2nd test for improvement
 
 To try an improve accuracy in the initial run , I kept the 2  hidden layers with the activation functions "SIGMOID" and the second hidden layer with the activation function "RELU" with the first hidden layer having 80 neurons and the second layer having 30 neurons.
